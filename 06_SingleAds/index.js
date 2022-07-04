@@ -2,9 +2,6 @@ import './index.css'
 
 const SingleAds = () => {
 
-    if( display == false ){
-        return '';
-    }
     return (
         
         <div>
